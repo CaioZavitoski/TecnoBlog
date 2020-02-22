@@ -1,3 +1,3 @@
 # TecnoBlog
 
-##Pequeno projeto para estudo de HTML CSS 
+Pequeno projeto para estudo de HTML CSS 
